@@ -14,7 +14,6 @@ const enriqueM = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, MongoDB, SQL],
   tools: [React, Redux, Styled-Components, Jest, Express,],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: {
       aviation: "Pilot",
       music: "Jazz Guitarrist"
